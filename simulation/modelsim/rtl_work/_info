@@ -1,0 +1,275 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/Users/natha/Desktop/github/32-bit-multiplier-private/simulation/modelsim
+Eadder32
+Z1 w1663973190
+Z2 DPx4 ieee 15 std_logic_arith 0 22 [G314=:2zXJ`VORJe1J@Z1
+Z3 DPx4 ieee 18 std_logic_unsigned 0 22 ;eZjO2D4ZDz<]0>8AL<ne1
+Z4 DPx4 ieee 11 numeric_std 0 22 aU^R8eGcicLcUFIaBQSL>3
+Z5 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z6 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 4
+R0
+Z7 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/adder32.vhd
+Z8 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/src/adder32.vhd
+l0
+L6 1
+V@fazM:XdFOW^^`3^4cAO20
+!s100 RJ2fMZnNKW5V;]N6o2Ajj2
+Z9 OV;C;2020.1;71
+31
+Z10 !s110 1663973556
+!i10b 1
+Z11 !s108 1663973556.000000
+Z12 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/adder32.vhd|
+Z13 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/adder32.vhd|
+!i113 1
+Z14 o-93 -work work
+Z15 tExplicit 1 CvgOpt 0
+Artl
+R2
+R3
+R4
+R5
+R6
+DEx4 work 7 adder32 0 22 @fazM:XdFOW^^`3^4cAO20
+!i122 4
+l16
+Z16 L14 13
+VnC[lQgB]5iT]iZ?:>:UKF1
+!s100 =iDD[?RmYA8h;d=8;n^eZ1
+R9
+31
+R10
+!i10b 1
+R11
+R12
+R13
+!i113 1
+R14
+R15
+Econtrolunit
+R1
+R4
+R5
+R6
+!i122 3
+R0
+Z17 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/controlunit.vhd
+Z18 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/src/controlunit.vhd
+l0
+L5 1
+VXkbS9Mc:;kDV44JMN<6MH0
+!s100 DZDT@:BKAZ1YAEJ=`8GfD3
+R9
+31
+R10
+!i10b 1
+R11
+Z19 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/controlunit.vhd|
+Z20 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/controlunit.vhd|
+!i113 1
+R14
+R15
+Artl
+R4
+R5
+R6
+DEx4 work 11 controlunit 0 22 XkbS9Mc:;kDV44JMN<6MH0
+!i122 3
+l27
+L15 66
+VDb:WY]EQPb6oamWAYH?2B1
+!s100 0;@1JKlIE31IK?T^a2h672
+R9
+31
+R10
+!i10b 1
+R11
+R19
+R20
+!i113 1
+R14
+R15
+Emultiplicand32
+R1
+R2
+R3
+R5
+R6
+!i122 2
+R0
+Z21 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplicand32.vhd
+Z22 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplicand32.vhd
+l0
+L5 1
+VoddRhUP7`_HXQoVc<oSJf3
+!s100 <`<Ufe;7Kl9@^USg>d2;J0
+R9
+31
+R10
+!i10b 1
+R11
+Z23 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplicand32.vhd|
+Z24 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplicand32.vhd|
+!i113 1
+R14
+R15
+Artl
+R2
+R3
+R5
+R6
+DEx4 work 14 multiplicand32 0 22 oddRhUP7`_HXQoVc<oSJf3
+!i122 2
+l17
+R16
+Vf5eOV^:STmoZ=lJIgBK@=3
+!s100 4H]::Zm>_0Jll3YK0_NnQ1
+R9
+31
+R10
+!i10b 1
+R11
+R23
+R24
+!i113 1
+R14
+R15
+Emultiplier32
+R1
+R4
+R5
+R6
+!i122 1
+R0
+Z25 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplier32.vhd
+Z26 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplier32.vhd
+l0
+L5 1
+VjU;AR;f6o7^[MWXidcXi21
+!s100 @;]>>MFO_3kiJ7ME_M?G?3
+R9
+31
+R10
+!i10b 1
+R11
+Z27 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplier32.vhd|
+Z28 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/multiplier32.vhd|
+!i113 1
+R14
+R15
+Artl
+R4
+R5
+R6
+DEx4 work 12 multiplier32 0 22 jU;AR;f6o7^[MWXidcXi21
+!i122 1
+l70
+L18 100
+V4QHmHoKFSIJU<V7hZQ`hD3
+!s100 ADLMSm><TEm<38f>O<Z]13
+R9
+31
+R10
+!i10b 1
+R11
+R27
+R28
+!i113 1
+R14
+R15
+Emultiplier32_tb
+R1
+R4
+R5
+R6
+!i122 5
+R0
+Z29 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/testbenchs/multiplier32_tb.vhd
+Z30 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/testbenchs/multiplier32_tb.vhd
+l0
+L5 1
+VUc9lngTkam[ogVkn9o<4g2
+!s100 Ll9VKBR1^G6z@U[:fa:I]0
+R9
+31
+R10
+!i10b 1
+R11
+Z31 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/testbenchs/multiplier32_tb.vhd|
+!s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/testbenchs/multiplier32_tb.vhd|
+!i113 1
+R14
+R15
+Atestbench
+R4
+R5
+R6
+DEx4 work 15 multiplier32_tb 0 22 Uc9lngTkam[ogVkn9o<4g2
+!i122 5
+l32
+L8 39
+VE:EICoZ4cTF9heen@kIPF0
+!s100 NIIzVFGjS=_01k78^GM^U1
+R9
+31
+R10
+!i10b 1
+R11
+R31
+Z32 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/testbenchs/multiplier32_tb.vhd|
+!i113 1
+R14
+R15
+Eproductregister
+R1
+R4
+R5
+R6
+!i122 0
+R0
+Z33 8C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/productregister.vhd
+Z34 FC:/Users/natha/Desktop/github/32-bit-multiplier-private/src/productregister.vhd
+l0
+L5 1
+VPn6J2=>jJ9T??Ea<B0fMC0
+!s100 O2FbY7jIJiIYU@8GdJU4d0
+R9
+31
+R10
+!i10b 1
+Z35 !s108 1663973555.000000
+Z36 !s90 -reportprogress|300|-93|-work|work|C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/productregister.vhd|
+Z37 !s107 C:/Users/natha/Desktop/github/32-bit-multiplier-private/src/productregister.vhd|
+!i113 1
+R14
+R15
+Artl
+R4
+R5
+R6
+DEx4 work 15 productregister 0 22 Pn6J2=>jJ9T??Ea<B0fMC0
+!i122 0
+l21
+L19 33
+VNcXaX2ga8720?Y?_=[kSj3
+!s100 C[mzk>K>GkLXI];<eG?eH2
+R9
+31
+R10
+!i10b 1
+R35
+R36
+R37
+!i113 1
+R14
+R15
